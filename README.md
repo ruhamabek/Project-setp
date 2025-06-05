@@ -1,4 +1,4 @@
-Git Workflow
+#Git Workflow
 Follow the steps below to initialize a repository, manage branches, and merge changes effectively.
 
 🔧 1. Initialize a Git Repository
