@@ -9,6 +9,7 @@ public class Name {
     }
     // This comment is from Gelila Dereje
     //This commit is from Ruhama Bekele
+    //this is merge from Ruhama
     public String getFirstName() {
         return firstName;
     }
