@@ -50,11 +50,14 @@ bash
 Copy
 Edit
 git push origin main
-| Name                  | ID      |
-| --------------------- | ------- |
-| Gelila Dereje         | 1501176 |
-| Ruhama Bekele         | 1501588 |
-| Hayat Mohammed-Sherif | 1503020 |
-| Eden Mesfin           | 1501055 |
-| Kaafiyo Sharmake      | 1502294 |
+Group Members
+Gelila Dereje — 1501176
+
+Ruhama Bekele — 1501588
+
+Hayat Mohammed-Sherif — 1503020
+
+Eden Mesfin — 1501055
+
+Kaafiyo Sharmake — 1502294
 
