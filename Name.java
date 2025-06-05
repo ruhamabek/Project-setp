@@ -9,6 +9,8 @@ public class Name {
     }
     // This comment is from Gelila Dereje
     //This commit is from Ruhama Bekele
+    // This is a second comment from Gelila Dereje
+
     public String getFirstName() {
         return firstName;
     }
