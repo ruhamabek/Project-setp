@@ -8,6 +8,7 @@ public class Name {
         this.lastName = lastName;
     }
     // This comment is from Gelila Dereje
+    // This is a second comment from Gelila Dereje
 
     public String getFirstName() {
         return firstName;
