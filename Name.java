@@ -7,6 +7,7 @@ public class Name {
         this.firstName = firstName;
         this.lastName = lastName;
     }
+    // This comment is from Gelila Dereje
 
     public String getFirstName() {
         return firstName;
