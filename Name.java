@@ -8,7 +8,7 @@ public class Name {
         this.lastName = lastName;
     }
     // This comment is from Gelila Dereje
-
+    //This commit is from Ruhama Bekele
     public String getFirstName() {
         return firstName;
     }
