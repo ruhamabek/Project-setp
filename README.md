@@ -50,3 +50,10 @@ bash
 Copy
 Edit
 git push origin main
+
+Group members:
+1.Gelila Dereje - 1501176
+2.Ruhama Bekele - 1501588
+3.Hayat Mohammed-sherif- 1503020
+4.Eden Mesfin - 1501055
+5.Kaafiyo sharmake - 1502294
